@@ -77,6 +77,7 @@ https://selar.com/f1p7483w25
 
 ## 🤖 Emerging Technologies: Robotics
 
+![Robotics cover](images/Robotics-Cover-book.png)
 **Description**
 
 An introductory guide that explores robotics concepts, components, sensors, actuators, programming, and real-world applications through practical learning experiences.
