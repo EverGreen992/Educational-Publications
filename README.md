@@ -28,8 +28,7 @@ The publications below are available for purchase on Selar.
 
 ## 📘 Digital Literacy and Technology Essentials – Foundation
 
-![Digital-Literacy-Cover]
-(images/digital-literacy-foundation-cover-page.png)
+![Digital-Literacy-Cover](images/digital-literacy-foundation-cover-page.png)
 
 **Description**
 
