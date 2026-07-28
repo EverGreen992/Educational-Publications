@@ -15,8 +15,7 @@ Each publication is carefully designed to provide practical, engaging, and curri
 - 🤖 Robotics
 - 🌐 Web Development
 - Artificial Intelligence
-- Computer Studies
-- Educational Technology
+- Emerging Technologies
 
 These resources are created to make technology education engaging, practical, and easy to understand.
 
@@ -28,7 +27,8 @@ The publications below are available for purchase on Selar.
 
 ## 📘 Digital Literacy and Technology Essentials – Foundation
 
-![Digital-Literacy-Cover](images/digital-literacy-foundation-cover-page.png)
+<img src="images/digital-literacy-foundation-cover-page.png" alt="Digital 
+ literacy and Technology Esssentials - Foundation" Width="250">
 
 **Description**
 
@@ -58,7 +58,7 @@ A beginner-friendly guide that introduces learners to the core concepts of Digit
 
 ## 🐍 Introduction to Programming: Python
 
-![python cover ](images/Python-Cover-book.png)
+<img src="images/Python-Cover-book.png" alt="Introduction to Programming: Pyython" Width="250">
 
 **Description**
 
@@ -77,7 +77,8 @@ https://selar.com/f1p7483w25
 
 ## 🤖 Emerging Technologies: Robotics
 
-![Robotics cover](images/Robotics-Cover-book.png)
+<img src="images/Robotics-Cover-book.png" alt="Emerging Technologies: Robotics" Width="250">
+
 **Description**
 
 An introductory guide that explores robotics concepts, components, sensors, actuators, programming, and real-world applications through practical learning experiences.
