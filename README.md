@@ -53,3 +53,35 @@ A beginner-friendly guide that introduces learners to the core concepts of Digit
 - Digital Citizenship
 
 🔗 **Buy on Selar:** * https://selar.com/65a2u5q687
+
+## 🐍 Introduction to Programming: Python
+
+**Description**
+
+Learn the fundamentals of Python programming through simple explanations, practical examples, coding exercises, and real-world applications...
+
+**Target Audience**
+- Secondary School Students
+- Beginners
+- Self-learners
+- Instructor
+
+**Buy on Selar**
+https://selar.com/f1p7483w25
+
+---
+
+## 🤖 Emerging Technologies: Robotics
+
+**Description**
+
+An introductory guide that explores robotics concepts, components, sensors, actuators, programming, and real-world applications through practical learning experiences.
+
+**Target Audience**
+- Students
+- Teachers
+- STEM Enthusiasts
+- Young Learners
+
+**Buy on Selar**
+ https://selar.com/427p74dweu
