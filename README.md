@@ -28,6 +28,10 @@ The publications below are available for purchase on Selar.
 
 ## 📘 Digital Literacy and Technology Essentials – Foundation
 
+![Digital Literacy Cover]
+(images/
+Digital Literacy & Technology Essentials - Foundation cover page
+
 **Description**
 
 A beginner-friendly guide that introduces learners to the core concepts of Digital Literacy and Technology. The book covers digital devices, operating systems, productivity tools, internet safety, digital citizenship, communication technologies, and other essential skills aligned with the Nigerian secondary school curriculum.
