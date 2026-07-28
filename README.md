@@ -59,6 +59,8 @@ A beginner-friendly guide that introduces learners to the core concepts of Digit
 
 ## 🐍 Introduction to Programming: Python
 
+![python cover ](images/Python-Cover-book.png)
+
 **Description**
 
 Learn the fundamentals of Python programming through simple explanations, practical examples, coding exercises, and real-world applications...
