@@ -56,6 +56,8 @@ A beginner-friendly guide that introduces learners to the core concepts of Digit
 
 🔗 **Buy on Selar:** * https://selar.com/65a2u5q687
 
+---
+
 ## 🐍 Introduction to Programming: Python
 
 <img src="images/Python-Cover-book.png" alt="Introduction to Programming: Pyython" Width="250">
