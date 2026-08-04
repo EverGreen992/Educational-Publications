@@ -13,6 +13,7 @@ Each publication is carefully designed to provide practical, engaging, and curri
 - 🎮 Scratch Programming
 - 🐍 Python Programming
 - 🤖 Robotics
+- Cloud Computing
 - 🌐 Web Development
 - Artificial Intelligence
 - Emerging Technologies
@@ -93,3 +94,10 @@ An introductory guide that explores robotics concepts, components, sensors, actu
 
 **Buy on Selar**
  https://selar.com/427p74dweu
+
+---
+## Emerging Technologies: Cloud Computing Fundamentals
+
+<img src="images/Cloud-Computing-Cover-book.png" alt="Emerging Technologies: Cloud-Computing-Fundamentals" Width="250">
+
+**Description**
