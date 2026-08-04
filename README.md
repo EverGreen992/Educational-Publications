@@ -98,6 +98,6 @@ An introductory guide that explores robotics concepts, components, sensors, actu
 ---
 ## Emerging Technologies: Cloud Computing Fundamentals
 
-<img src="images/Cloud-Computing-Cover-book.png" alt="Emerging Technologies: Cloud-Computing-Fundamentals" Width="250">
+<img src="images/cloud-computing emerging-tech.png" alt="Emerging Technologies: Cloud-Computing-Fundamentals" Width="250">
 
 **Description**
