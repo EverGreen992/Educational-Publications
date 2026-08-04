@@ -13,7 +13,7 @@ Each publication is carefully designed to provide practical, engaging, and curri
 - 🎮 Scratch Programming
 - 🐍 Python Programming
 - 🤖 Robotics
-- Cloud Computing
+- ☁️💻 Cloud Computing
 - 🌐 Web Development
 - Artificial Intelligence
 - Emerging Technologies
