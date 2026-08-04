@@ -101,3 +101,20 @@ An introductory guide that explores robotics concepts, components, sensors, actu
 <img src="images/cloud-computing emerging-tech.png" alt="Emerging Technologies: Cloud-Computing-Fundamentals" Width="250">
 
 **Description**
+
+This educational publication was created to simplify cloud computing concepts for beginners. It explains cloud service models, deployment models, major cloud providers, cloud security, and practical applications using clear explanations, diagrams, examples, and review exercises. The handbook is intended for students, educators, and technology enthusiasts.
+
+**Topics Covered:**
+
+- Cloud Computing Fundamentals
+- Characteristics of Cloud Computing
+- Advantages and Challenges
+- IaaS, PaaS & SaaS
+- Public, Private, Hybrid & Community Clouds
+- Major Cloud Service Providers
+- Cloud Security & Best Practices
+- Real-World Applications
+- Review Assessments & Answer Key
+
+**Buy on Selar**
+ https://selar.com/7o52888177
