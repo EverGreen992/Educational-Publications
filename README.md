@@ -96,7 +96,7 @@ An introductory guide that explores robotics concepts, components, sensors, actu
  https://selar.com/427p74dweu
 
 ---
-## Emerging Technologies: Cloud Computing Fundamentals
+## ☁️💻 Emerging Technologies: Cloud Computing Fundamentals
 
 <img src="images/cloud-computing emerging-tech.png" alt="Emerging Technologies: Cloud-Computing-Fundamentals" Width="250">
 
