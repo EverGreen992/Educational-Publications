@@ -118,3 +118,8 @@ This educational publication was created to simplify cloud computing concepts fo
 
 **Buy on Selar**
  https://selar.com/7o52888177
+
+---
+## Introduction to Programming: Scratch
+
+<img src="images/Cloud pdf.png" alt="Emerging Technologies: Cloud-Computing-Fundamentals" Width="250">
