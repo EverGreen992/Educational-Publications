@@ -92,7 +92,7 @@ An introductory guide that explores robotics concepts, components, sensors, actu
 - STEM Enthusiasts
 - Young Learners
 
-** **Buy on Selar:**
+🔗 **Buy on Selar:**
  https://selar.com/427p74dweu
 
 ---
