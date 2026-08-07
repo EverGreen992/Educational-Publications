@@ -55,7 +55,7 @@ A beginner-friendly guide that introduces learners to the core concepts of Digit
 - Online Safety
 - Digital Citizenship
 
-🔗 **Buy on Selar:** * https://selar.com/65a2u5q687
+🔗 **Buy on Selar:** https://selar.com/65a2u5q687
 
 ---
 
@@ -73,7 +73,7 @@ Learn the fundamentals of Python programming through simple explanations, practi
 - Self-learners
 - Instructor
 
-**Buy on Selar**
+🔗 **Buy on Selar:**
 https://selar.com/f1p7483w25
 
 ---
@@ -92,7 +92,7 @@ An introductory guide that explores robotics concepts, components, sensors, actu
 - STEM Enthusiasts
 - Young Learners
 
-**Buy on Selar**
+** **Buy on Selar:**
  https://selar.com/427p74dweu
 
 ---
@@ -116,7 +116,7 @@ This educational publication was created to simplify cloud computing concepts fo
 - Real-World Applications
 - Review Assessments & Answer Key
 
-**Buy on Selar**
+🔗 **Buy on Selar:**
  https://selar.com/7o52888177
 
 ---
@@ -158,5 +158,5 @@ This handbook serves as an excellent foundation for learning programming and pre
 
 #### Technologies: Scratch • Visual Programming • Computational Thinking • Coding Education • STEM • Digital Literacy
 
-**Buy on Selar**
+🔗 **Buy on Selar:**
 https://selar.com/87986t7hd1
