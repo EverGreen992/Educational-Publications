@@ -80,7 +80,7 @@ https://selar.com/f1p7483w25
 
 ## 🤖 Emerging Technologies: Robotics
 
-<img src="images/Robotics-Cover-book.png" alt="Emerging Technologies: Robotics" Width="250">
+<img src="images/Robotics pdf.png" alt="Emerging Technologies: Robotics" Width="250">
 
 **Description**
 
