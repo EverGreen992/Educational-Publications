@@ -157,3 +157,6 @@ The book guides learners from the fundamentals of Scratch to creating their own 
 This handbook serves as an excellent foundation for learning programming and prepares learners to transition to text-based programming languages such as Python.
 
 #### Technologies: Scratch • Visual Programming • Computational Thinking • Coding Education • STEM • Digital Literacy
+
+**Buy on Selar**
+https://selar.com/87986t7hd1
