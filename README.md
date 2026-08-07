@@ -61,7 +61,7 @@ A beginner-friendly guide that introduces learners to the core concepts of Digit
 
 ## 🐍 Introduction to Programming: Python
 
-<img src="images/Python-Cover-book.png" alt="Introduction to Programming: Pyython" Width="250">
+<img src="images/Python pdf.png" alt="Introduction to Programming: Pyython" Width="250">
 
 **Description**
 
