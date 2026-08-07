@@ -120,6 +120,40 @@ This educational publication was created to simplify cloud computing concepts fo
  https://selar.com/7o52888177
 
 ---
+## 🐱 Introduction to Programming: Scratch
+
+<img src="images/Scratch image.png" alt="Emerging Technologies: Cloud-Computing-Fundamentals" Width="250">
+
+**Description**
+
 ## Introduction to Programming: Scratch
 
-<img src="images/Cloud pdf.png" alt="Emerging Technologies: Cloud-Computing-Fundamentals" Width="250">
+#### A Beginner's Handbook for Learning Visual Programming
+
+This beginner-friendly handbook provides a practical introduction to programming using Scratch, the world's leading visual programming platform developed to teach coding concepts through interactive, block-based programming.
+
+The book guides learners from the fundamentals of Scratch to creating their own interactive projects while developing essential computational thinking and problem-solving skills. Written in a clear and engaging style, it is ideal for students, teachers, and anyone beginning their programming journey.
+
+## Features
+- Introduction to Programming
+- What is Scratch?
+- History and Features of Scratch
+- Scratch User Interface
+- Creating and Managing Projects
+- Sprites, Backdrops, and Blocks
+- Motion, Looks, Sound, Events, Control, Variables, and Operators
+- Building Interactive Animations and Games
+- Practical Coding Activities and Projects
+- Review Questions and Practice Exercises
+
+## Suitable For
+- Students
+- Teachers and Educators
+- Parents and Home-school Learners
+- Coding Clubs
+- Self-Learners
+- Anyone new to programming
+
+This handbook serves as an excellent foundation for learning programming and prepares learners to transition to text-based programming languages such as Python.
+
+#### Technologies: Scratch • Visual Programming • Computational Thinking • Coding Education • STEM • Digital Literacy
